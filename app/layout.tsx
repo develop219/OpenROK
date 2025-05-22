@@ -21,7 +21,7 @@ const description =
   'A fully open-source AI-powered answer engine with a generative UI.'
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://morphic.sh'),
+  metadataBase: new URL('https://open-rok.vercel.app'),
   title,
   description,
   openGraph: {
